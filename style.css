@@ -16,7 +16,7 @@ body {
   grid-template: repeat(30, 1fr) / repeat(12, 1fr);
 }
 
-.img{
+img{
   max-width: 100%;
 }
 
